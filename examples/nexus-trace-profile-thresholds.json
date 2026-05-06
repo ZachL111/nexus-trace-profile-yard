@@ -1,0 +1,17 @@
+{
+  "repo": "nexus-trace-profile-yard",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 2,
+    "ship": 172,
+    "watch": 110
+  },
+  "terms": [
+    "span volume",
+    "latency skew",
+    "signal loss",
+    "incident shape"
+  ]
+}
